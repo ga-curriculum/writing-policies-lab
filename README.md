@@ -18,7 +18,7 @@ This module provides an introduction to writing effective technology policies, f
 
 ### Prerequisites
 
-- Writing Policies Lecture
+- [Writing Policies Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/writing-policies/canvas-landing-pages/itb.html)
 
 ### Time to complete
 
