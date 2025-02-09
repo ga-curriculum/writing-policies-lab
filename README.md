@@ -1,47 +1,33 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Writing Policies Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This module provides an introduction to writing effective technology policies, focusing on crafting clear, enforceable Acceptable Use Policies (AUPs). Learners gain a deep understanding of the key elements, best practices, and practical skills needed to analyze policy requirements, write robust policy documents, and communicate policy proposals to diverse stakeholders.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Understanding Policy Requirements](./understanding-policy-requirements/README.md)
+- [Outlining the Policy Structure](./outlining-policy-structure/README.md)
+- [Writing the Policy Document](./writing-policy-document/README.md)
+- [Presenting Your Policy](./presenting-your-policy/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- Writing Policies Lecture
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **120 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/writing-policies-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/writing-policies-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
