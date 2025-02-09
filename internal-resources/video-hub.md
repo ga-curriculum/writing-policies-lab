@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Writing Policies Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 
