@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Writing Policies Lab</span>
-  <span class="subhead">Outlining the Policy Structure</span>
+  <span class="subhead">Outline the Policy Structure</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to outline a complete acceptable use policy.
 
 With your requirements in hand, you'll now outline the structure and key components of your AUP!
 
-# Exercise
+## Exercise
 
 Review the key elements that effective policies typically include:
 

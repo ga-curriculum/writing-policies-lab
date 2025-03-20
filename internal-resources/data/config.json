@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Understanding Policy Requirements",
-          "dirName": "understanding-policy-requirements",
+          "friendlyName": "Understand Policy Requirements",
+          "dirName": "understand-policy-requirements",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Outlining the Policy Structure",
-          "dirName": "outlining-policy-structure",
+          "friendlyName": "Outline the Policy Structure",
+          "dirName": "outline-the-policy-structure",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Writing the Policy Document",
-          "dirName": "writing-policy-document",
+          "friendlyName": "Write the Policy Document",
+          "dirName": "write-the-policy-document",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Presenting Your Policy",
-          "dirName": "presenting-your-policy",
+          "friendlyName": "Present Your Policy",
+          "dirName": "present-your-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -83,14 +83,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Understanding Policy Requirements",
-          "dirName": "understanding-policy-requirements",
+          "friendlyName": "Understand Policy Requirements",
+          "dirName": "understand-policy-requirements",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Outlining the Policy Structure",
-          "dirName": "outlining-policy-structure",
+          "friendlyName": "Outline the Policy Structure",
+          "dirName": "outline-the-policy-structure",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -109,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Writing the Policy Document",
-          "dirName": "writing-policy-document",
+          "friendlyName": "Write the Policy Document",
+          "dirName": "write-the-policy-document",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Presenting Your Policy",
-          "dirName": "presenting-your-policy",
+          "friendlyName": "Present Your Policy",
+          "dirName": "present-your-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

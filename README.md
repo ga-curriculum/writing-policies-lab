@@ -9,16 +9,21 @@ This module provides an introduction to writing effective technology policies, f
 
 ## Content
 
-- [Understanding Policy Requirements](./understanding-policy-requirements/README.md)
-- [Outlining the Policy Structure](./outlining-policy-structure/README.md)
-- [Writing the Policy Document](./writing-policy-document/README.md)
-- [Presenting Your Policy](./presenting-your-policy/README.md)
+- [Understand Policy Requirements](./understand-policy-requirements/README.md)
+- [Outline the Policy Structure](./outline-the-policy-structure/README.md)
+- [Write the Policy Document](./write-the-policy-document/README.md)
+- [Present Your Policy](./present-your-policy/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
 ### Prerequisites
 
-- [Writing Policies Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/writing-policies/canvas-landing-pages/itb.html)
+- Writing Policies
 
 ### Time to complete
 

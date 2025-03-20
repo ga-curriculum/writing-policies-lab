@@ -21,24 +21,24 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.understandingPolicyRequirements
-      mls.outliningPolicyStructure
-      mls.writingPolicyDocument
-      mls.presentingYourPolicy
-    }
-  }
-    new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.understandingPolicyRequirements
-      mls.outliningPolicyStructure
-      mls.writingPolicyDocument
-      mls.presentingYourPolicy
+      mls.understandPolicyRequirements
+      mls.outlineThePolicyStructure
+      mls.writeThePolicyDocument
+      mls.presentYourPolicy
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.understandPolicyRequirements
+      mls.outlineThePolicyStructure
+      mls.writeThePolicyDocument
+      mls.presentYourPolicy
     }
   }
 }

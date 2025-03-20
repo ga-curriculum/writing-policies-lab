@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Writing Policies Lab</span>
-  <span class="subhead">Writing Your Policy Document</span>
+  <span class="subhead">Write the Policy Document</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to transform a policy outline into a full-fledged Acceptable Use Policy document that is clear, specific, and balanced in its guidelines and language.
 
 Now it's time to transform your outline into a full-fledged policy document.
 
-# Exercise
+## Exercise
 
 Using your outline as a guide, draft the content for each section of your AUP. As you write, keep in mind the best practices covered in the module:
 

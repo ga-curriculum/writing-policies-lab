@@ -2,30 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-understandingPolicyRequirements = new Template.Microlesson {
-  friendlyName = "Understanding Policy Requirements"
-  dirName = "understanding-policy-requirements"
+understandPolicyRequirements = new Template.Microlesson {
+  friendlyName = "Understand Policy Requirements"
+  dirName = "understand-policy-requirements"
   type = "Content"
   videoUrl = ""
 }
 
-outliningPolicyStructure = new Template.Microlesson {
-  friendlyName = "Outlining the Policy Structure"
-  dirName = "outlining-policy-structure"
+outlineThePolicyStructure = new Template.Microlesson {
+  friendlyName = "Outline the Policy Structure"
+  dirName = "outline-the-policy-structure"
   type = "Content"
   videoUrl = ""
 }
 
-writingPolicyDocument = new Template.Microlesson {
-  friendlyName = "Writing the Policy Document"
-  dirName = "writing-policy-document"
+writeThePolicyDocument = new Template.Microlesson {
+  friendlyName = "Write the Policy Document"
+  dirName = "write-the-policy-document"
   type = "Content"
   videoUrl = ""
 }
 
-presentingYourPolicy = new Template.Microlesson {
-  friendlyName = "Presenting Your Policy"
-  dirName = "presenting-your-policy"
+presentYourPolicy = new Template.Microlesson {
+  friendlyName = "Present Your Policy"
+  dirName = "present-your-policy"
   type = "Content"
   videoUrl = ""
 }

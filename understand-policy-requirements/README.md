@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Writing Policies Lab</span>
-  <span class="subhead">Understanding Policy Requirements</span>
+  <span class="subhead">Understand Policy Requirements</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to analyze the specific requirements and objectives that should shape an Acceptable Use Policy based on a given scenario and stakeholder needs.
 
-# Exercise
+## Exercise
 
-## Understanding Policy Requirements
+### Understanding policy requirements
 
 In this exercise, you'll dive into the requirements and objectives that will shape your Acceptable Use Policy.
 
@@ -15,7 +15,7 @@ Review the provided scenario and stakeholder needs for the Acceptable Use Policy
 
 - **Scenario:** You are the IT Manager at a mid-sized software company. The company has recently experienced incidents of inappropriate use of tech resources, including data breaches caused by employee negligence. Leadership has asked you to draft an AUP to mitigate these risks.
 
-- **Stakeholder Needs:**
+- **Stakeholder needs:**
 
   - **Legal:** Ensure the policy complies with relevant laws and regulations.
 
