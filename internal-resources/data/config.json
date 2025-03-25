@@ -20,6 +20,16 @@
       "logoUrl": "",
       "microlessons": [
         {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
           "friendlyName": "Understand Policy Requirements",
           "dirName": "understand-policy-requirements",
           "type": "Content",
@@ -42,16 +52,6 @@
         {
           "friendlyName": "Write the Policy Document",
           "dirName": "write-the-policy-document",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Present Your Policy",
-          "dirName": "present-your-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,6 +89,16 @@
       "logoUrl": "",
       "microlessons": [
         {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
           "friendlyName": "Understand Policy Requirements",
           "dirName": "understand-policy-requirements",
           "type": "Content",
@@ -111,16 +121,6 @@
         {
           "friendlyName": "Write the Policy Document",
           "dirName": "write-the-policy-document",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Present Your Policy",
-          "dirName": "present-your-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

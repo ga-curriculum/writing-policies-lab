@@ -20,14 +20,12 @@ repo {
 
 courses {
   new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
+      mls.setup
       mls.understandPolicyRequirements
       mls.outlineThePolicyStructure
       mls.writeThePolicyDocument
-      mls.presentYourPolicy
     }
   }
   new {
@@ -35,10 +33,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
       mls.understandPolicyRequirements
       mls.outlineThePolicyStructure
       mls.writeThePolicyDocument
-      mls.presentYourPolicy
     }
   }
 }
